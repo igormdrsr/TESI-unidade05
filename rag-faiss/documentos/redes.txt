@@ -1,0 +1,30 @@
+TCP (Transmission Control Protocol)
+
+O TCP é um protocolo da camada de transporte, orientado à conexão.
+Ele oferece entrega confiável e ordenada dos dados, utilizando
+mecanismos como números de sequência, confirmações de recebimento
+e retransmissões.
+
+UDP (User Datagram Protocol)
+
+O UDP é um protocolo da camada de transporte não orientado à conexão.
+Ele não garante a entrega nem a ordem dos datagramas.
+Possui menor sobrecarga de controle em comparação ao TCP.
+É utilizado em aplicações como DNS, jogos online e comunicação
+em tempo real.
+
+DNS (Domain Name System)
+
+O DNS é um sistema distribuído responsável por resolver nomes de
+domínio em endereços IP, entre outros tipos de registros.
+Por exemplo, permite descobrir o endereço IP associado a
+um domínio como exemplo.com.
+
+DHCP (Dynamic Host Configuration Protocol)
+
+O DHCP permite configurar automaticamente parâmetros de rede
+dos dispositivos, como endereço IP, máscara de sub-rede,
+gateway padrão e servidores DNS.
+No DHCPv4, o processo inicial de obtenção de endereço é
+frequentemente representado pela sequência DORA:
+Discover, Offer, Request e Acknowledgment.
